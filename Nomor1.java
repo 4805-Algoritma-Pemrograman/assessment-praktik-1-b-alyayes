@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Nomor1 {
@@ -23,7 +24,6 @@ public class Nomor1 {
             System.out.printf("Komisi yang didapatkan: Rp %.1f%n", komisi);
 
             scanner.close();
-            
+        
         }
-
     }
